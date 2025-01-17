@@ -1,0 +1,6 @@
+fpdf
+tqdm
+openai
+beautifulsoup4
+chatur-chains
+requests
