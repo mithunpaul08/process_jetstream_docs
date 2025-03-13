@@ -35,7 +35,7 @@ conda activate verde
 
 `pip install chatur-chains`
 
-## Step 3: Next open an editor for writing python code.
+## Step 3: Next open an editor and write this python code.
 
 
 ```bash
@@ -92,6 +92,7 @@ print(message.content)
 ```
 
 
+## Step 4: Run the code
 Next save this editor file, as verde.py and run the python script from command line like this:
 
 ```bash
